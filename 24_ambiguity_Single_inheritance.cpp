@@ -15,6 +15,9 @@ class derived:public base{
 };
 int main(){
 	derived d;
+	cout<<"Name:Rohit Kumar"<<endl;
+	cout<<"URN:2514169"<<endl;
+	cout<<"CRN:2515244"<<endl;
 	d.display();
 	d.base::display();
 	return 0;

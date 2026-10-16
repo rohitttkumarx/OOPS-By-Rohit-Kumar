@@ -3,6 +3,9 @@ using namespace std;
 
 int main()
 {
+	cout<<"Name:Rohit Kumar"<<endl;
+	cout<<"URN:2514169"<<endl;
+	cout<<"CRN:2515244"<<endl;
 	int n, sum = 0, min, max;
 	float avg;
 
